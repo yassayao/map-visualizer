@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/maap-visualizer/static/css/main.d9196daf.css",
+    "main.js": "/maap-visualizer/static/js/main.61a02210.js",
+    "static/js/787.269cafa6.chunk.js": "/maap-visualizer/static/js/787.269cafa6.chunk.js",
+    "static/media/tile_0-0.tif": "/maap-visualizer/static/media/tile_0-0.58064eec571e438251ff.tif",
+    "index.html": "/maap-visualizer/index.html",
+    "main.d9196daf.css.map": "/maap-visualizer/static/css/main.d9196daf.css.map",
+    "main.61a02210.js.map": "/maap-visualizer/static/js/main.61a02210.js.map",
+    "787.269cafa6.chunk.js.map": "/maap-visualizer/static/js/787.269cafa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9196daf.css",
+    "static/js/main.61a02210.js"
+  ]
+}
